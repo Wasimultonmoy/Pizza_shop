@@ -1,0 +1,3 @@
+C:/Users/USER/Documents/Pizza_Shop_Alpha/cmake-build-debug/CMakeFiles/Pizza_Shop_Alpha.dir
+C:/Users/USER/Documents/Pizza_Shop_Alpha/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Documents/Pizza_Shop_Alpha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
